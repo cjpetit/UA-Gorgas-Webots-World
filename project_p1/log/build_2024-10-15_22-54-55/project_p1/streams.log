@@ -1,0 +1,11 @@
+[0.721s] Invoking command in '/home/colepetit/ros2_ws/src/project_p1': PYTHONPATH=/home/colepetit/ros2_ws/src/project_p1/build/project_p1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/project_p1 build --build-base /home/colepetit/ros2_ws/src/project_p1/build/project_p1/build install --record /home/colepetit/ros2_ws/src/project_p1/build/project_p1/install.log --single-version-externally-managed install_data
+[0.982s] running egg_info
+[0.983s] creating build/project_p1/my_package.egg-info
+[0.983s] writing build/project_p1/my_package.egg-info/PKG-INFO
+[0.983s] writing dependency_links to build/project_p1/my_package.egg-info/dependency_links.txt
+[0.984s] writing entry points to build/project_p1/my_package.egg-info/entry_points.txt
+[0.984s] writing requirements to build/project_p1/my_package.egg-info/requires.txt
+[0.984s] writing top-level names to build/project_p1/my_package.egg-info/top_level.txt
+[0.984s] writing manifest file 'build/project_p1/my_package.egg-info/SOURCES.txt'
+[0.985s] error: package directory 'my_package' does not exist
+[1.011s] Invoked command in '/home/colepetit/ros2_ws/src/project_p1' returned '1': PYTHONPATH=/home/colepetit/ros2_ws/src/project_p1/build/project_p1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/project_p1 build --build-base /home/colepetit/ros2_ws/src/project_p1/build/project_p1/build install --record /home/colepetit/ros2_ws/src/project_p1/build/project_p1/install.log --single-version-externally-managed install_data

@@ -1,0 +1,8 @@
+running egg_info
+creating build/project_p1/package_p1.egg-info
+writing build/project_p1/package_p1.egg-info/PKG-INFO
+writing dependency_links to build/project_p1/package_p1.egg-info/dependency_links.txt
+writing entry points to build/project_p1/package_p1.egg-info/entry_points.txt
+writing requirements to build/project_p1/package_p1.egg-info/requires.txt
+writing top-level names to build/project_p1/package_p1.egg-info/top_level.txt
+writing manifest file 'build/project_p1/package_p1.egg-info/SOURCES.txt'

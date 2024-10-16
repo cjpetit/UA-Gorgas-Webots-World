@@ -1,0 +1,24 @@
+running egg_info
+writing build/project_p1/project_p1.egg-info/PKG-INFO
+writing dependency_links to build/project_p1/project_p1.egg-info/dependency_links.txt
+writing entry points to build/project_p1/project_p1.egg-info/entry_points.txt
+writing requirements to build/project_p1/project_p1.egg-info/requires.txt
+writing top-level names to build/project_p1/project_p1.egg-info/top_level.txt
+reading manifest file 'build/project_p1/project_p1.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/project_p1/project_p1.egg-info/SOURCES.txt'
+running build
+running build_py
+copying project_p1/webots_ros2_homework1_python.py -> /home/colepetit/ros2_ws/src/project_p1/build/project_p1/build/lib/project_p1
+running install
+running install_lib
+copying /home/colepetit/ros2_ws/src/project_p1/build/project_p1/build/lib/project_p1/webots_ros2_homework1_python.py -> /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1
+byte-compiling /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1/webots_ros2_homework1_python.py to webots_ros2_homework1_python.cpython-310.pyc
+running install_data
+copying launch/p1_launch.py -> /home/colepetit/ros2_ws/src/project_p1/install/project_p1/share/project_p1/launch
+running install_egg_info
+removing '/home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/project_p1/project_p1.egg-info to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing my_robot_driver script to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/project_p1
+writing list of installed files to '/home/colepetit/ros2_ws/src/project_p1/build/project_p1/install.log'

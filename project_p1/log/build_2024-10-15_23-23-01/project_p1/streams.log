@@ -1,0 +1,23 @@
+[0.574s] Invoking command in '/home/colepetit/ros2_ws/src/project_p1': PYTHONPATH=/home/colepetit/ros2_ws/src/project_p1/build/project_p1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/project_p1 build --build-base /home/colepetit/ros2_ws/src/project_p1/build/project_p1/build install --record /home/colepetit/ros2_ws/src/project_p1/build/project_p1/install.log --single-version-externally-managed install_data
+[0.784s] running egg_info
+[0.785s] writing build/project_p1/project_p1.egg-info/PKG-INFO
+[0.785s] writing dependency_links to build/project_p1/project_p1.egg-info/dependency_links.txt
+[0.789s] writing entry points to build/project_p1/project_p1.egg-info/entry_points.txt
+[0.789s] writing requirements to build/project_p1/project_p1.egg-info/requires.txt
+[0.789s] writing top-level names to build/project_p1/project_p1.egg-info/top_level.txt
+[0.791s] reading manifest file 'build/project_p1/project_p1.egg-info/SOURCES.txt'
+[0.791s] adding license file 'LICENSE'
+[0.792s] writing manifest file 'build/project_p1/project_p1.egg-info/SOURCES.txt'
+[0.792s] running build
+[0.792s] running build_py
+[0.792s] running install
+[0.793s] running install_lib
+[0.794s] running install_data
+[0.794s] copying resource/turtlebot_webots.urdf -> /home/colepetit/ros2_ws/src/project_p1/install/project_p1/share/project_p1/resource
+[0.794s] running install_egg_info
+[0.796s] removing '/home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1-0.0.0-py3.10.egg-info' (and everything under it)
+[0.796s] Copying build/project_p1/project_p1.egg-info to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1-0.0.0-py3.10.egg-info
+[0.797s] running install_scripts
+[0.818s] Installing my_robot_driver script to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/project_p1
+[0.818s] writing list of installed files to '/home/colepetit/ros2_ws/src/project_p1/build/project_p1/install.log'
+[0.838s] Invoked command in '/home/colepetit/ros2_ws/src/project_p1' returned '0': PYTHONPATH=/home/colepetit/ros2_ws/src/project_p1/build/project_p1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/project_p1 build --build-base /home/colepetit/ros2_ws/src/project_p1/build/project_p1/build install --record /home/colepetit/ros2_ws/src/project_p1/build/project_p1/install.log --single-version-externally-managed install_data

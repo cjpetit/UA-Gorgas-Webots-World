@@ -1,0 +1,26 @@
+running egg_info
+writing build/project_p1/project_p1.egg-info/PKG-INFO
+writing dependency_links to build/project_p1/project_p1.egg-info/dependency_links.txt
+writing entry points to build/project_p1/project_p1.egg-info/entry_points.txt
+writing requirements to build/project_p1/project_p1.egg-info/requires.txt
+writing top-level names to build/project_p1/project_p1.egg-info/top_level.txt
+reading manifest file 'build/project_p1/project_p1.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/project_p1/project_p1.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/colepetit/ros2_ws/src/project_p1/install/project_p1/share/project_p1/launch
+copying launch/p1_launch.py -> /home/colepetit/ros2_ws/src/project_p1/install/project_p1/share/project_p1/launch
+creating /home/colepetit/ros2_ws/src/project_p1/install/project_p1/share/project_p1/worlds
+copying worlds/part1.wbt -> /home/colepetit/ros2_ws/src/project_p1/install/project_p1/share/project_p1/worlds
+running install_egg_info
+removing '/home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/project_p1/project_p1.egg-info to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/python3.10/site-packages/project_p1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/project_p1
+Installing p1_node script to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/project_p1
+Installing talker script to /home/colepetit/ros2_ws/src/project_p1/install/project_p1/lib/project_p1
+writing list of installed files to '/home/colepetit/ros2_ws/src/project_p1/build/project_p1/install.log'
